@@ -19,32 +19,27 @@ keyboard.col_pins = (
     board.GP6,
     board.GP7,
     board.GP8,
-    board.GP9,
-    board.GP10,
     board.GP20,
     board.GP21,
     board.GP22,
     board.GP23,
     board.GP24,
     board.GP25,
+    board.GP26,
+    board.GP27,
 )
 
 keyboard.row_pins = (
     board.GP13,
     board.GP14,
     board.GP15,
-    board.GP26,
-    board.GP27,
+    board.GP28,
+    board.GP29,
 )
 
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 keyboard.modules.append(Layers())
 keyboard.extensions.append(MediaKeys())
-
-
-Å = KC.RALT(KC.W)
-Ö = KC.RALT(KC.P)   
-Ä = KC.RALT(KC.Q)
 
 keyboard.keymap = [
 
@@ -85,8 +80,8 @@ keyboard.keymap = [
     [
 	##########-##########-##########-##########-##########-##########-##########-##########-##########-##########-##########-##########-##########-##########-##########-##########
         KC.GRV,    KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.EQL,    KC.PPLS,   KC.NO,     KC.NO,     KC.NO,     KC.NO,     
-        KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     Å,         KC.NO,     KC.NO,     KC.NO,     KC.NO,     
-	KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     Ö,         Ä,         KC.NO,     KC.NO,     KC.NO,     KC.NO,   
+        KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     
+	KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,   
 	KC.LSFT,   KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.RSFT,   KC.NO,     KC.NO,     KC.NO,     
 	KC.NO,     KC.NO,     KC.NO,     KC.NO,     KC.TRNS,   KC.NO,     KC.NO,     KC.NO,     KC.TRNS,   KC.NO,     KC.NO,     KC.TRNS,   KC.NO,     KC.NO,     KC.NO,     KC.NO,     
 
