@@ -9,3 +9,4 @@ The glyph is a completely custom keyboard that combines a 5x13 ortholinear layou
 
 ### v1
 v1 of glyph is a 3d-printed and handwired build. Since it was so novel to me didn't know if I would actually like the layout, it made sense to not dive straight in with a PCB and expensive cnc case, instead I went with a handwired and 3d-printed approach, which I understood better and was more comfortable working with.
+build guide + more information [here](https://github.com/galile0-designs/glyphkbd/blob/main/v1.2/v1.2_build_guide.md)
