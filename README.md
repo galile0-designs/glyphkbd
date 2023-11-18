@@ -1,5 +1,5 @@
 # glyphkbd
-The glyph is a completely custom keyboard that combines a 5x13 ortholinear layout with the arrow/nav clusters characteristic of a normal TKL or 100% size keyboard. Admittedly, it's a somewhat goofy and definitively inefficient layout, but still, it's my favorite I've tried yet. And also, it looks really nice.
+The glyph is a completely custom keyboard that combines a 5x13 ortholinear layout with the characteristic arrow/nav clusters from a TKL. Admittedly, it's a somewhat goofy and definitively inefficient layout, but still, it's my favorite I've tried yet. And also, it looks really nice.
 
 ![Screenshot (69)](https://github.com/galile0-designs/glyphkbd/assets/134774462/fc53d2b5-7bfd-49f7-bec6-fc4e9676147f)
 
