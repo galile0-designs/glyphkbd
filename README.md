@@ -4,8 +4,11 @@ The glyph is a completely custom keyboard that combines a 5x13 ortholinear layou
 glyph was inspired by [drFaustroll's amazing mlego m65](https://mlego.elena.space/m65/) as well as the gorgeous [Stucco.](https://www.reddit.com/r/CustomKeyboards/comments/10k8k6w/custom_ortho_tkl_done_stucco1510/) 
 
 ![DSC_0008](https://github.com/galile0-designs/glyphkbd/assets/134774462/0f9bec99-c76c-4ecc-a129-9ab1ce3d6208)
+latest build, v1.2 with MT3 3277
 ![DSC_0020](https://github.com/galile0-designs/glyphkbd/assets/134774462/0d69dcc5-ae64-4f41-9b0d-04ac140818c2)
+v1 with MTNU Susu
 ![DSC_0005](https://github.com/galile0-designs/glyphkbd/assets/134774462/6a66da9b-4a4c-4f8b-aba8-3e628babb39b)
+v1.1 with 3277
 
 ## v1
 build guide found [here.](https://github.com/galile0-designs/glyphkbd/blob/main/v1.2/v1.2_build_guide.md)
