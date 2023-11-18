@@ -8,5 +8,6 @@ glyph was inspired by [drFaustroll's amazing mlego m65](https://mlego.elena.spac
 ![DSC_0005](https://github.com/galile0-designs/glyphkbd/assets/134774462/6a66da9b-4a4c-4f8b-aba8-3e628babb39b)
 
 ### v1
+build guide found [here.](https://github.com/galile0-designs/glyphkbd/blob/main/v1.2/v1.2_build_guide.md)
+
 v1 of glyph is a 3d-printed and handwired build. Since it was so novel to me and I didn't know if I would actually like the layout, it made sense to not dive straight in with a PCB and expensive cnc case, instead I went with a handwired, 3d-printed approach.
-build guide + more information [here](https://github.com/galile0-designs/glyphkbd/blob/main/v1.2/v1.2_build_guide.md)
