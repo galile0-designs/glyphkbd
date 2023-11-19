@@ -12,7 +12,7 @@ glyph was largely inspired by [drFaustroll's amazing mlego m65](https://mlego.el
 
 v1.x of glyph are 3d-printed and handwired builds. Since it was so novel to me and I didn't know if I would actually like the layout, it made sense not to dive straight in with a PCB and expensive cnc case, so for v1.x I went with a handwired, 3d-printed approach. glyph v1.x uses sealing strips as a mounting method, I first learned about this method from [KotteCE's Batoid](https://github.com/kotte-computer-electronics/batoid). I have to say it's the best mounting method I've discovered so far for these types of DIY, 3D-printed handwire boards, far better than my previous experiments. The sound profile is relatively pleasant also.
 
-### Some more glyph
+# Some more glyph
 ![DSC_0020](https://github.com/galile0-designs/glyphkbd/assets/134774462/0d69dcc5-ae64-4f41-9b0d-04ac140818c2)
 v1 with MTNU Susu
 
