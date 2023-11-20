@@ -19,7 +19,7 @@ v1 of glyph are 3d-printed and handwired builds. Since it was so novel to me and
 
 # Future
 As you may have gleamed from the fact that I call it "v1", there is more coming for this project. Next step planned is to design and manufacture a proper PCB, and maybe some real plates?. This would make my life so much easier when prototyping and assembling these things. I am also upgrading my printer setup to pump these out faster.
-If you have any problems, suggestions or comments, you're more than welcome to reach out! Enjoy!
+If you have any problems, suggestions or questions, you're more than welcome to reach out! I'll be happy to help. Enjoy!
 
 # Some more glyph
 ![DSC_0020](https://github.com/galile0-designs/glyphkbd/assets/134774462/0d69dcc5-ae64-4f41-9b0d-04ac140818c2)
