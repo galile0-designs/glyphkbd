@@ -1,4 +1,4 @@
-# glyph v1 kmk firmware main
+# glyph v1 kmk firmware main, swedish edition :)
 
 import board
 
