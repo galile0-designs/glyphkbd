@@ -11,6 +11,8 @@ glyph was largely inspired by [drFaustroll's amazing mlego m65](https://mlego.el
 # v1.x
 **v1.2 build guide found [here.](https://github.com/galile0-designs/glyphkbd/blob/main/v1.2/v1.2_build_guide.md)**
 
+**Caution: glyph v1.x require quite a girthy 3D-printer to make, at least 350x150mm bed area**
+
 v1.x of glyph are 3d-printed and handwired builds. Since it was so novel to me and I didn't know if I would actually like the layout, it made sense not to dive straight in with a PCB and expensive cnc case, so for v1.x I went with a handwired, 3d-printed approach.
 # Some more glyph
 ![DSC_0020](https://github.com/galile0-designs/glyphkbd/assets/134774462/0d69dcc5-ae64-4f41-9b0d-04ac140818c2)
