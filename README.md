@@ -16,9 +16,6 @@ v1 of glyph are 3d-printed and handwired builds using a USB-C RPi Pico clone as 
 ![Screenshot (70)](https://github.com/galile0-designs/glyphkbd/assets/134774462/f4656880-d6ba-46b9-afc0-582e63f19edb)
 
 # Some more glyph
-![DSC_0020](https://github.com/galile0-designs/glyphkbd/assets/134774462/0d69dcc5-ae64-4f41-9b0d-04ac140818c2)
-v1 with MTNU Susu
-
 ![DSC_0005](https://github.com/galile0-designs/glyphkbd/assets/134774462/6a66da9b-4a4c-4f8b-aba8-3e628babb39b)
 v1.1 with 3277, this one won keyboard of the month on the swedish MK discord server!
 
