@@ -10,6 +10,9 @@ glyphkbd was largely inspired by [drFaustroll's amazing m65](https://mlego.elena
 # v2
 glyphkbd_v2 uses an actual PCB, with integrated STM32F072 controller running QMK, with VIA use enabled. 3D printed top mount case.
 
+![Screenshot 2024-02-22 175121](https://github.com/galile0-designs/glyphkbd/assets/134774462/5836cfac-a936-4e9b-ae4e-2d5e5bb5da22)
+![Screenshot 2024-02-22 175153](https://github.com/galile0-designs/glyphkbd/assets/134774462/4512e66f-fc35-493e-88e5-669acebfc13d)
+
 # v1.x
 **Comprehensive v1.2 build guide found [here.](https://github.com/galile0-designs/glyphkbd/blob/main/v1.2/v1.2_build_guide.md)**
 
