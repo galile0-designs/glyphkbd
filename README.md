@@ -1,10 +1,5 @@
 # glyphkbd
 **5x13 ortholinear plus TKL nav and arrow clusters**
-
-![finished](https://github.com/galile0-designs/glyphkbd/assets/134774462/2ea2b85e-3198-4d28-98cc-9d353b1f7dcf)
-v1.2
-
-# Inspiration
 glyphkbd was largely inspired by [drFaustroll's amazing m65](https://mlego.elena.space/m65/) as well as the [Stucco](https://www.reddit.com/r/CustomKeyboards/comments/10k8k6w/custom_ortho_tkl_done_stucco1510/). glyph v1 uses sealing strips as a mounting method, something I learned from [KotteCE's Batoid](https://github.com/kotte-computer-electronics/batoid).
 
 # v2
@@ -20,6 +15,7 @@ glyphkbd_v2 uses a custom PCB with integrated STM32F072 controller running QMK. 
 
 v1 of glyph are 3d-printed and handwired builds using a USB-C RPi Pico clone as controller, running KMK firmware
 
+![finished](https://github.com/galile0-designs/glyphkbd/assets/134774462/2ea2b85e-3198-4d28-98cc-9d353b1f7dcf)
 ![Screenshot (71)](https://github.com/galile0-designs/glyphkbd/assets/134774462/88afe18e-234d-4641-b500-0ae28008e2be)
 ![Screenshot (70)](https://github.com/galile0-designs/glyphkbd/assets/134774462/f4656880-d6ba-46b9-afc0-582e63f19edb)
 ![DSC_0005](https://github.com/galile0-designs/glyphkbd/assets/134774462/6a66da9b-4a4c-4f8b-aba8-3e628babb39b)
