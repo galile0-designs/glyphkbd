@@ -5,10 +5,10 @@
 v1.2 with MT3 3277
 
 # Inspiration
-glyphkbd was largely inspired by [drFaustroll's amazing m65](https://mlego.elena.space/m65/) as well as the beautiful [Stucco](https://www.reddit.com/r/CustomKeyboards/comments/10k8k6w/custom_ortho_tkl_done_stucco1510/). glyph v1 uses sealing strips as a mounting method, something I learned from [KotteCE's Batoid](https://github.com/kotte-computer-electronics/batoid). I have to say it's the best mounting method I've discovered so far for these types of DIY, 3D-printed handwire boards, far better than my previous experiments. It's dirt cheap, available at pretty much any hardware store, and the sound profile is relatively pleasant also.
+glyphkbd was largely inspired by [drFaustroll's amazing m65](https://mlego.elena.space/m65/) as well as the [Stucco](https://www.reddit.com/r/CustomKeyboards/comments/10k8k6w/custom_ortho_tkl_done_stucco1510/). glyph v1 uses sealing strips as a mounting method, something I learned from [KotteCE's Batoid](https://github.com/kotte-computer-electronics/batoid).
 
 # v2
-glyphkbd_v2 actually uses a PCB, with integrated STM32F072 controller running QMK, with VIA use enabled. 3D printed top mount case.
+glyphkbd_v2 uses a custom PCB with integrated STM32F072 controller running QMK. VIA use enabled. 3D printed top mount case.
 
 ![DSC_0071_crop](https://github.com/galile0-designs/glyphkbd/assets/134774462/b1430ac9-ad3f-4a25-9c62-59e51696f563)
 ![Screenshot 2024-02-22 190137](https://github.com/galile0-designs/glyphkbd/assets/134774462/9cba256b-aa8d-4d7e-8167-9a00d88527cf)
