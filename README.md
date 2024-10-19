@@ -1,6 +1,6 @@
 # glyphkbd
 **5x13 ortholinear plus TKL nav and arrow clusters**
-glyphkbd was largely inspired by [drFaustroll's amazing m65](https://mlego.elena.space/m65/) as well as the [Stucco](https://www.reddit.com/r/CustomKeyboards/comments/10k8k6w/custom_ortho_tkl_done_stucco1510/). glyph v1 uses sealing strips as a mounting method, something I learned from [KotteCE's Batoid](https://github.com/kotte-computer-electronics/batoid).
+glyphkbd was largely inspired by [drFaustroll's m65](https://mlego.elena.space/m65/) as well as the [Stucco](https://www.reddit.com/r/CustomKeyboards/comments/10k8k6w/custom_ortho_tkl_done_stucco1510/). glyph v1 uses sealing strips as a mounting method, something I learned from [KotteCE's Batoid](https://github.com/kotte-computer-electronics/batoid).
 
 # v2
 glyphkbd_v2 uses a custom PCB with integrated STM32F072 controller running QMK. VIA use enabled. 3D printed top mount case.
